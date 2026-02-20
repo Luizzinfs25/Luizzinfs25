@@ -1,5 +1,5 @@
 ## Olá sou o Luiz Gustavo, programador de Software
-Faço Faculdade de análise e Desenvolvimento de Sistemas, esteri colocando aqui meu futuros projetos e minha evolução, me segue ai e faça parte do meu Crescimento!
+Faço Faculdade de análise e Desenvolvimento de Sistemas, estarei colocando aqui meu futuros projetos e minha evolução, me segue ai e faça parte do meu Crescimento!
 
 
 <div style="display: inline_block"><br>
